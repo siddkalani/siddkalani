@@ -1,3 +1,4 @@
+<img src="https://imgs.search.brave.com/LZI_DnD_GKMC6iVnzQ7LxAO5Vl_oggf8ORN5J287evs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTMz/MTcwMjg2Ny9waG90/by9ibG9jay1jaGFp/bi1jb25jZXB0Lndl/YnA_Yj0xJnM9NjEy/eDYxMiZ3PTAmaz0y/MCZjPW12ZXdTT0xT/ZVlXLTRwNkpkRDFW/ZERmUVlIU0V3cHpJ/NTc5WDNiQ3BURTg9" height="300" width="100%" alt="MasterHead">
 <h1 align="center">Hi 👋, I'm Siddharth Kalani</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
