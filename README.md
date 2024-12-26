@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddkalani&label=Profile%20views&color=0e75b6&style=flat" alt="siddkalani" /> </p>
 
-- 👨‍💻 All of my projects are available at [portfolio](portfoliobysidd.netlify.app/)
+- 👨‍💻 All of my projects are available at [portfolio]([portfoliobysidd.netlify.app/](https://portfoliobysiddh.netlify.app/))
 
 - 💬 Ask me about **Web & App Development, React, Node.js, APIs.**
 
