@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGaswIBuBep6A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735207030540?e=1740614400&v=beta&t=2unz7kdqv8GgA9PuW3tY-OS9pPHLMZI8zYClhgWG63E" height="300" width="100%" alt="MasterHead">
+<img src="https://i.postimg.cc/ncKVNYCZ/linkedinbanner.png" height="300" width="100%" alt="MasterHead">
 <h1 align="center">Hi 👋, I'm Siddharth Kalani</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
