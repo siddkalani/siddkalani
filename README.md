@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/ncKVNYCZ/linkedinbanner.png" height="300" width="100%" alt="MasterHead">
+<img src="https://i.postimg.cc/ncKVNYCZ/linkedinbanner.png" height="240" width="100%" alt="MasterHead">
 <h1 align="center">Hi 👋, I'm Siddharth Kalani</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
