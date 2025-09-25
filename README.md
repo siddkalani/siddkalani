@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGUN-19as6fAg/profile-displaybackgroundimage-shrink_350_1400/B4DZZC7M_QG4AY-/0/1744879539684?e=1750291200&v=beta&t=i0rG94alklvbRaXhB2yE_Pz_iYjjZBqL7oz9YeHb61M" height="240" width="100%" alt="MasterHead">
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQGUN-19as6fAg/profile-displaybackgroundimage-shrink_350_1400/B4DZZC7M_QG4AY-/0/1744879539684?e=1761782400&v=beta&t=iaeDHiH_u6zmbER_IL0ez7Us6Z2fmy-qYtDhJHHjVhQ" height="240" width="100%" alt="MasterHead">
 <h1 align="center">Hi 👋, I'm Siddharth Kalani</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
