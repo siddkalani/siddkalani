@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Web & App Development, React, Node.js, APIs.**
 
-- 📫 How to reach me **siddharth.kalani@somaiya.edu**
+- 📫 How to reach me **siddharthkalani6@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/4gQYYRX](https://bit.ly/4gQYYRX)
 
